@@ -4,9 +4,7 @@
  <!-- About section -->
 
 ---
-✨ Hi, my name is Tashifa Imtiaz and I am a recent graduate from Queen's University, where I completed my Honours Bachelor of Science in Life Sciences with a specialization in Neuroscience in May 2022, and my Master of Science in Pathology and Molecular Medicine in June 2023.
 
-In the fall of 2023, I will be starting my MD/PhD at Queen's University in the Renwick Lab. I am excited to continue pursuing my passion for research and medicine in this new chapter of my academic journey.
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
